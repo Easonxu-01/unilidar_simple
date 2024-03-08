@@ -25,4 +25,3 @@ Many thanks to these excellent projects:
 - [SurroundOcc](https://github.com/weiyithu/SurroundOcc)
 - [MonoScene](https://github.com/astra-vision/MonoScene)
 - [Unidet](https://github.com/xingyizhou/UniDet)
-# unilidar_simple
